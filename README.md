@@ -6,8 +6,9 @@
 
 ### What I build
 - **SuperWiFi**: my own captive portal for OpenWrt routers, running in production. Built from scratch, over 10× more accurate and faster than the portals before it, with a Flutter app for remote and SSH control.
-- **Reado**: one Flutter codebase that ships 15 store apps, with subscriptions, ads, 23 languages and dual-subtitle audio lessons.
+- **Reado**: one Flutter codebase that ships 15 store apps, with RevenueCat subscriptions, AdMob ads, 23 languages and dual-subtitle audio lessons.
 - **AI tooling**: an AI lesson pipeline using Gemini, TTS and synced subtitles.
+- **Waffarli**: a fintech loyalty-points network with append-only ledgers, idempotent payments, QR redemption and POS receipt printing.
 
 ### Open source
 | Project | What it does |
@@ -17,4 +18,4 @@
 | [keepawake-cli](https://github.com/saeed-morshidy/keepawake-cli) | Keep a Linux laptop awake with a live GNOME countdown |
 
 ### Toolbox
-Flutter & Dart · Clean Architecture · Supabase / PostgreSQL · Linux · Bash · OpenWrt · GitHub Actions · Python · Go (learning) · AI-assisted development
+Flutter & Dart · Clean Architecture · Advanced State Management · Supabase / PostgreSQL · Linux · Bash & CLI tools · OpenWrt · GitHub Actions · Fastlane · Python · Go (learning) · Prompt engineering & AI-assisted development
